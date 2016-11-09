@@ -1,0 +1,109 @@
+body{
+  background-image: url("m5opIj.jpg");
+	font-family: 'Open Sans', sans-serif;
+  font-weight: 300px;
+  font-family: 'Open Sans', sans-serif;
+  color: #7d7d7d;
+  font-size: 15px;
+  line-height: 1.6em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+	font-family: 'Raleway', sans-serif;
+}
+
+h1,
+h2,
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+  color: #4B0082;
+  font-size: 22px;
+}
+
+h2{
+  font-size: 18px;
+  font-weight: 300px;
+}
+
+a{
+  color: #4B0082;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #191970;
+}
+
+img{
+  width: 160px;
+  height: 237px;
+}
+
+#logo{
+  width: 200px;
+	height: 200px;
+  border: 3px solid #cccccc;
+  border-radius: 50%;
+}
+
+#movies{
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 1,6em;
+}
+
+#movies td{
+  padding: 10px;
+  vertical-align: top;
+}
+
+.list-inline{
+	list-style: none;
+  padding-left: 0;
+}
+
+.list-inline li{
+	display: inline-block;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+.list-inline a{
+	text-decoration: none;
+}
+
+.fa{
+  font-size: 25px;
+}
+
+.container{
+	background-color: white;
+	width: 600px;
+	padding: 20px;
+	margin: 20px auto;
+	box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+	border-radius: 4px;
+  text-align: center;
+}
+
+.btn-purple{
+  background-color: #4B0082;
+  color: white;
+  font-weight: 500;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.btn-purple:hover{
+  background-color: #191970;
+  color: white;
+}
+
